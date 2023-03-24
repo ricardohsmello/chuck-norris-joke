@@ -1,8 +1,8 @@
 # chuck-norris-joke
-
-
 ![Deploying a Quarkus Application to AWS Elastic Beanstalk](https://miro.medium.com/v2/resize:fit:720/format:webp/1*F5iuR1K0ngxAnEgb8L8CrQ.png)
-### This project calls an API of Chuck Norris jokes. It was created using Quarkus to be deployed on AWS Elastic Beanstalk.
+## This project is an example how to use AWS Elastic Beanstalk
+
+This application calls an API of Chuck Norris jokes and show the jokes to user. It was created using Quarkus to be deployed on AWS Elastic Beanstalk.
 
 You can read more on my <b>medium</b> article.
 

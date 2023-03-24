@@ -8,7 +8,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 @RegisterRestClient(configKey = "chuck-norris")
-public interface ChuckNorrisApiService {
+public interface ChuckNorrisService {
     @GET
     @Path("/jokes/random/")
     @Produces(MediaType.APPLICATION_JSON)

@@ -10,7 +10,6 @@ You can read more on my <b>medium</b> article.
 
 ![Application sample](https://miro.medium.com/v2/resize:fit:4800/1*RdvU3F9YhPLyCkwPGP5n7Q.gif)
 
-
 ## Built With
 
 - [`Java 19`](https://www.oracle.com/java/technologies/javase/19-0-2-relnotes.html/) - Language

@@ -13,8 +13,7 @@ public class ChuckNorrisJokeResource {
 
     @RestClient
     ChuckNorrisService chuckNorrisService;
-
-    @GET
+     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getJoke() {
         return chuckNorrisService.getRandomJoke().getValue();
